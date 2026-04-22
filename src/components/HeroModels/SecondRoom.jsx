@@ -8,7 +8,7 @@ export function SecondRoom(props) {
       <mesh
         geometry={nodes.Plane_Material_0.geometry}
         material={materials.Material}
-        rotation={[-Math.PI / 2, 0, 0]}
+        rotation={[-Math.PI / 2, 0.1, 0.5]}
         scale={1.7}
       />
     </group>
