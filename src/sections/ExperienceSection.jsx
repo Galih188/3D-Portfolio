@@ -46,7 +46,7 @@ const ExperienceSection = () => {
         ease: "power2.inOut",
         scrollTrigger: {
           trigger: text,
-          start: "top 60%",
+          start: "top 50%",
         },
       });
     });
