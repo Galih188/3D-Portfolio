@@ -75,13 +75,13 @@ const ShowCaseSection = () => {
                   alt="Library Maanagement Platform"
                 />
               </div>
-              <h2>Library Management Platform</h2>
+              <h2>Simple Portfolio Website</h2>
             </div>
             <div className="project" ref={project3Ref}>
               <div className="image-wrapper bg-[#ffe7db]">
                 <img src="/images/project3.png" alt="YC Directory" />
               </div>
-              <h2>YC Directory - A Startup Shocase App</h2>
+              <h2>SongUp - A Startup Design App</h2>
             </div>
           </div>
         </div>

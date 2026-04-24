@@ -60,7 +60,7 @@ const Hero = () => {
             </div>
             <p>
               Hi, I'm Galih, a develooper based in Indonesia with a passion for
-              code.
+              code and design.
             </p>
             <Button
               className="md:w-80 md:h-16 w-60 h-12"

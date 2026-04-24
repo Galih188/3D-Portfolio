@@ -31,7 +31,7 @@ const words = [
 const counterItems = [
   { value: 6, suffix: "+", label: "Months of Experience" },
   // { value: 200, suffix: "+", label: "Satisfied Clients" },
-  { value: 4, suffix: "+", label: "Completed Projects" },
+  { value: 3, suffix: "+", label: "Completed Projects" },
   // { value: 90, suffix: "%", label: "Client Retention Rate" },
 ];
 
@@ -148,15 +148,15 @@ const techStackIcons = [
 const expCards = [
   {
     comp: "Coding Camp 2025 powered by DBS Foundation",
-    desc: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+    desc: "Program pelatihan intensif Full-Stack Development yang berfokus pada standar industri.",
     imgPath: "/images/exp-logo.png",
     logoPath: "/images/dbs-logo.png",
-    title: "Frontend & Backend Developer",
-    date: "January 2023 - Present",
+    title: "Full-Stack Web Development Trainee",
+    date: "Februari 2025 - Juni 2025",
     responsibilities: [
-      "Developed and maintained user-facing features for the Hostinger website.",
-      "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-      "Optimized web applications for maximum speed and scalability.",
+      "Membangun aplikasi web responsif dan aksesibel menggunakan HTML5, CSS Grid/Flexbox, dan JavaScript (ES6+) dengan paradigma OOP serta Functional Programming.",
+      "Mengembangkan layanan Back-End (RESTful API) menggunakan runtime Node.js dan framework Hapi, serta melakukan pengujian fungsionalitas menggunakan Postman.",
+      "Mengimplementasikan proses deployment aplikasi ke infrastruktur cloud Amazon EC2 dan mengelola version control proyek secara kolaboratif melalui Git/GitHub.",
     ],
   },
 ];
@@ -216,18 +216,20 @@ const expLogos = [
 const socialImgs = [
   {
     name: "insta",
+    url: "https://www.instagram.com/galihh.h?igsh=NmowM20wYzBzamVl",
     imgPath: "/images/insta.png",
   },
-  {
-    name: "fb",
-    imgPath: "/images/fb.png",
-  },
-  {
-    name: "x",
-    imgPath: "/images/x.png",
-  },
+  // {
+  //   name: "fb",
+  //   imgPath: "/images/fb.png",
+  // },
+  // {
+  //   name: "x",
+  //   imgPath: "/images/x.png",
+  // },
   {
     name: "linkedin",
+    url: "https://www.linkedin.com/in/galih-sabilah-rosat-2023b7293/",
     imgPath: "/images/linkedin.png",
   },
 ];
