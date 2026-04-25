@@ -59,7 +59,7 @@ const Hero = () => {
               <h1>that Deliver Result</h1>
             </div>
             <p>
-              Hi, I'm Galih, a develooper based in Indonesia with a passion for
+              Hi, I'm Galih, a developer based in Indonesia with a passion for
               code and design.
             </p>
             <Button
